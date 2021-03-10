@@ -1,6 +1,6 @@
 <!--<a href="https://icons8.com/"><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/gummy-camping.png" width=35%/></a>-->
 
-## Hi there 👋
+## Hi there 👋 I'm Muhamad Jamil Fanreza
 You can call me Jamil, I was still in vocational high school.<br />
 Web Development is my role specifically Front End Developer.<br />
 I also like learning PHP and NodeJS<br /> 
