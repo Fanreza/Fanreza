@@ -1,28 +1,117 @@
-<!--<a href="https://icons8.com/"><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/gummy-camping.png" width=35%/></a>-->
+### Hi there 👋
 
-## Hi there 👋 I'm Muhamad Jamil Fanreza
-You can call me Jamil, I was still in vocational high school.<br />
-Web Development is my role specifically Front End Developer.<br />
-I also like learning PHP and NodeJS<br /> 
+I'm [Moepoi](https://moepoi.dev) (18 y.o) ! :sunglasses:
 
+I'd like to do project that has relation to anime. :ghost:
 
-### Quick overview
-- :octocat: GitHub stats:
+:page_with_curl: I'm currently learning:
+- Dart 
+- Python
+- Javascript
+- GraphQL
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Fanreza&count_private=true&show_icons=true&theme=gotham">
-</a>
-<br />
+:star: Here are some projects that I'm working on:
+- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
+- [Nepgear](https://t.me/NepgearBot)
+- [WhoisBot](https://t.me/WhoisBot)
+- [Moe API](https://beta.moe.team)
 
-<br />
+![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
 
-- 🌱 I’m currently learning PHP
+<details>
+<summary>:bar_chart: Recent Anilist Activity</summary>
+  
+<!-- anilist_activity starts -->
+* [watched episode 1 - 2](https://anilist.co/activity/235766816) of [Xinghe Zhizun](https://anilist.co/anime/129239)
+* [completed None](https://anilist.co/activity/235584431) of [Wo Shi Da Shenxian 2](https://anilist.co/anime/130354)
+* [watched episode 12](https://anilist.co/activity/235584425) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
+* [watched episode 9](https://anilist.co/activity/235221521) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
+* [watched episode 69](https://anilist.co/activity/235074664) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [watched episode 10](https://anilist.co/activity/234565695) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
+* [watched episode 134](https://anilist.co/activity/234565687) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 21](https://anilist.co/activity/234565681) of [Wanjie Duzun](https://anilist.co/anime/131929)
+* [watched episode 82](https://anilist.co/activity/234565668) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 11](https://anilist.co/activity/234129341) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
+<!-- anilist_activity ends -->
 
-<br />
-<p align="center">
- <strong>__Social Media__</strong>
-<p align="center">
-<a href="https://www.linkedin.com/in/muhamad-jamil-87832a1a0/"><img src="https://img.icons8.com/clouds/48/000000/linkedin.png"/></a>
-</p>
+</details>
 
+<details>
+<summary>:tv: List Favorites Anime</summary>
+  
+<!-- favorites_anime starts -->
+* [Ze Tian Ji](https://anilist.co/anime/101409)
+* [Ze Tian Ji 2](https://anilist.co/anime/102165)
+* [Ze Tian Ji 3](https://anilist.co/anime/102166)
+* [Ze Tian Ji 4](https://anilist.co/anime/108986)
+* [Ze Tian Ji 5](https://anilist.co/anime/115839)
+* [Toaru Majutsu no Index](https://anilist.co/anime/4654)
+* [Toaru Majutsu no Index II](https://anilist.co/anime/8937)
+* [Toaru Majutsu no Index III](https://anilist.co/anime/100185)
+* [Toaru Kagaku no Railgun](https://anilist.co/anime/6213)
+* [Toaru Kagaku no Railgun S](https://anilist.co/anime/16049)
+* [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
+* [Ling Jian Zun](https://anilist.co/anime/107882)
+* [Ling Jian Zun 2](https://anilist.co/anime/116137)
+* [Ling Jian Zun 3](https://anilist.co/anime/116138)
+* [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Doupo Cangqiong](https://anilist.co/anime/102464)
+* [Doupo Cangqiong 2](https://anilist.co/anime/102463)
+* [Doupo Cangqiong 3](https://anilist.co/anime/104922)
+* [World Trigger](https://anilist.co/anime/20729)
+* [World Trigger 2](https://anilist.co/anime/114087)
+* [Mahouka Koukou no Rettousei](https://anilist.co/anime/20458)
+* [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
+* [Tong Ling Fei](https://anilist.co/anime/99935)
+* [Shu Ling Ji](https://anilist.co/anime/119945)
+* [Quanzhi Fashi](https://anilist.co/anime/99200)
+<!-- favorites_anime ends -->
 
+</details>
+
+<details>
+<summary>:book: List Favorites Manga</summary>
+  
+<!-- favorites_manga starts -->
+<!-- favorites_manga ends -->
+
+</details>
+
+<details>
+<summary>:girl: List Favorites Characters</summary>
+  
+<!-- favorites_characters starts -->
+* [Sayu Ogiwara](https://anilist.co/character/127925)
+* [Chizuru Ichinose](https://anilist.co/character/128106)
+* [Misaki Shokuhou](https://anilist.co/character/40136)
+* [Kyouko Hori](https://anilist.co/character/66171)
+* [Ruka Sarashina](https://anilist.co/character/147005)
+* [Sumi Sakurasawa](https://anilist.co/character/144665)
+* [Ravel Phenex](https://anilist.co/character/58341)
+* [Le Fay Pendragon](https://anilist.co/character/79663)
+* [Angelina Kudou Shields](https://anilist.co/character/128377)
+* [Haruno Yukinoshita](https://anilist.co/character/79589)
+* [Iroha Isshiki](https://anilist.co/character/88727)
+* [Sasha Necron](https://anilist.co/character/139562)
+* [Misha Necron](https://anilist.co/character/138596)
+* [Jibril](https://anilist.co/character/87887)
+* [Holo](https://anilist.co/character/7373)
+* [Miyuki Shiba](https://anilist.co/character/55741)
+* [Ayako Kuroba](https://anilist.co/character/200612)
+* [Nepgear](https://anilist.co/character/49927)
+* [Yoshino Koiwai](https://anilist.co/character/121008)
+* [Karen Kujou](https://anilist.co/character/50223)
+* [Mio Naruse](https://anilist.co/character/89158)
+* [Flare Arlgrande Jioral](https://anilist.co/character/139397)
+* [Setsuna](https://anilist.co/character/139402)
+* [Roxy Migurdia](https://anilist.co/character/88350)
+* [Feena Fam Earthlight](https://anilist.co/character/1054)
+<!-- favorites_characters ends -->
+
+</details>
+
+Feel free to contact me :yum:
+<br><br>
+[<img src="https://img.shields.io/badge/Telegram-%40Moepoi-blue">](https://t.me/moepoi)
+[<img src="https://img.shields.io/badge/LINE-Moepoi-brightgreen">](https://line.me/ti/p/~moepoi)
+[<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:moe@chocola.dev)
