@@ -1,22 +1,16 @@
 ### Hi there 👋
 
-I'm [Moepoi](https://moepoi.dev) (18 y.o) ! :sunglasses:
+I'm [Fanreza](https://fanreza.github,io) (17 y.o) ! :sunglasses:
 
 I'd like to do project that has relation to anime. :ghost:
 
 :page_with_curl: I'm currently learning:
-- Dart 
-- Python
-- Javascript
-- GraphQL
+- Figma
+- Node.Js
 
-:star: Here are some projects that I'm working on:
-- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
-- [Nepgear](https://t.me/NepgearBot)
-- [WhoisBot](https://t.me/WhoisBot)
-- [Moe API](https://beta.moe.team)
+<!-- :star: Here are some projects that I'm working on: -->
 
-![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
+![Fanreza's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=fanreza)
 
 <details>
 <summary>:bar_chart: Recent Anilist Activity</summary>
