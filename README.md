@@ -106,6 +106,6 @@ I'd like to do project that has relation to anime. :ghost:
 
 Feel free to contact me :yum:
 <br><br>
-[<img src="https://img.shields.io/badge/Telegram-%40Moepoi-blue">](https://t.me/moepoi)
+<!-- [<img src="https://img.shields.io/badge/Telegram-%40Moepoi-blue">](https://t.me/moepoi)
 [<img src="https://img.shields.io/badge/LINE-Moepoi-brightgreen">](https://line.me/ti/p/~moepoi)
-[<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:moe@chocola.dev)
+[<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:moe@chocola.dev) -->
