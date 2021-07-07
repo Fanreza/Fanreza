@@ -13,24 +13,6 @@ I'd like to do project that has relation to anime. :ghost:
 ![Fanreza's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=fanreza)
 
 <details>
-<summary>:bar_chart: Recent Anilist Activity</summary>
-  
-<!-- anilist_activity starts -->
-* [watched episode 1 - 2](https://anilist.co/activity/235766816) of [Xinghe Zhizun](https://anilist.co/anime/129239)
-* [completed None](https://anilist.co/activity/235584431) of [Wo Shi Da Shenxian 2](https://anilist.co/anime/130354)
-* [watched episode 12](https://anilist.co/activity/235584425) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
-* [watched episode 9](https://anilist.co/activity/235221521) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
-* [watched episode 69](https://anilist.co/activity/235074664) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 10](https://anilist.co/activity/234565695) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
-* [watched episode 134](https://anilist.co/activity/234565687) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 21](https://anilist.co/activity/234565681) of [Wanjie Duzun](https://anilist.co/anime/131929)
-* [watched episode 82](https://anilist.co/activity/234565668) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 11](https://anilist.co/activity/234129341) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
-<!-- anilist_activity ends -->
-
-</details>
-
-<details>
 <summary>:tv: List Favorites Anime</summary>
   
 <!-- favorites_anime starts -->
@@ -67,6 +49,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:book: List Favorites Manga</summary>
   
 <!-- favorites_manga starts -->
+* [Chainsaw Man](https://anilist.co/manga/105778/Chainsaw-Man/)
 <!-- favorites_manga ends -->
 
 </details>
@@ -75,31 +58,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:girl: List Favorites Characters</summary>
   
 <!-- favorites_characters starts -->
-* [Sayu Ogiwara](https://anilist.co/character/127925)
-* [Chizuru Ichinose](https://anilist.co/character/128106)
-* [Misaki Shokuhou](https://anilist.co/character/40136)
-* [Kyouko Hori](https://anilist.co/character/66171)
-* [Ruka Sarashina](https://anilist.co/character/147005)
-* [Sumi Sakurasawa](https://anilist.co/character/144665)
-* [Ravel Phenex](https://anilist.co/character/58341)
-* [Le Fay Pendragon](https://anilist.co/character/79663)
-* [Angelina Kudou Shields](https://anilist.co/character/128377)
-* [Haruno Yukinoshita](https://anilist.co/character/79589)
-* [Iroha Isshiki](https://anilist.co/character/88727)
-* [Sasha Necron](https://anilist.co/character/139562)
-* [Misha Necron](https://anilist.co/character/138596)
-* [Jibril](https://anilist.co/character/87887)
-* [Holo](https://anilist.co/character/7373)
-* [Miyuki Shiba](https://anilist.co/character/55741)
-* [Ayako Kuroba](https://anilist.co/character/200612)
-* [Nepgear](https://anilist.co/character/49927)
-* [Yoshino Koiwai](https://anilist.co/character/121008)
-* [Karen Kujou](https://anilist.co/character/50223)
-* [Mio Naruse](https://anilist.co/character/89158)
-* [Flare Arlgrande Jioral](https://anilist.co/character/139397)
-* [Setsuna](https://anilist.co/character/139402)
-* [Roxy Migurdia](https://anilist.co/character/88350)
-* [Feena Fam Earthlight](https://anilist.co/character/1054)
+* [Aqua](https://anilist.co/character/89362/Aqua)
 <!-- favorites_characters ends -->
 
 </details>
