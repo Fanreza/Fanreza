@@ -1,7 +1,7 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I'm [Muhamad Jamil Fanreza](https://fanreza.github,io), people call me Jamil . I am a Junior Web Developer. I am always open to collaborating on projects. feel free to connect with me here: <br>
-[![Gmail Badge](https://img.shields.io/badge/-rezaramdhani461@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rezaramdhani461@gmail.com)](mailto:kanna6501@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/-Muhamad--Jamil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhamad-jamil-87832a1a0/)](https://www.linkedin.com/in/muhamad-jamil-87832a1a0/)
+[![Gmail Badge](https://img.shields.io/badge/-rezaramdhani461@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rezaramdhani461@gmail.com)](mailto:kanna6501@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/-Muhamad--Jamil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhamad-jamil-87832a1a0/)](https://www.linkedin.com/in/muhamad-jamil-87832a1a0/)[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/fanreza)](https://dev.to/fanreza)
 
 :page_with_curl: I'm currently learning:
 - Figma
