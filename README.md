@@ -20,5 +20,5 @@ I'm [Muhamad Jamil Fanreza](https://fanreza.github,io), people call me Jamil . I
 <br><br><br><br><br>
 
 
-**Tribute to my friend who create my profile picture** <br>
+**Tribute to my friend who create my profile picture** <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-izaz-zauhair-15302b218/)](https://www.linkedin.com/in/muhammad-izaz-zauhair-15302b218/)
