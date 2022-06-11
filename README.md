@@ -17,8 +17,8 @@ I'm [Muhamad Jamil Fanreza](https://fanreza.github,io), people call me Jamil . I
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white"/>
 <br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<br>
+<br><br><br><br><br>
 
 
-Tribute to my friend who create my profile picture <br>
+**Tribute to my friend who create my profile picture** <br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-izaz-zauhair-15302b218/)](https://www.linkedin.com/in/muhammad-izaz-zauhair-15302b218/)
