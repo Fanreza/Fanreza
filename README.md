@@ -7,6 +7,8 @@ I'm [Muhamad Jamil Fanreza](https://fanreza.github,io), people call me Jamil . I
 
 :page_with_curl: I'm currently learning:
 - Nuxt.Js
+- Typescript
+- Flutter
 
 ![Fanreza's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=fanreza&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave) <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanreza&hide=TeX&layout=compact&theme=synthwave)
