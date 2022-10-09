@@ -1,6 +1,6 @@
 [![@fanreza's Holopin board](https://holopin.io/api/user/board?user=fanreza)](https://holopin.io/@fanreza)
 
-### Hi there
+# Hi there :wave:
 
 I'm [Muhamad Jamil Fanreza](https://fanreza.github,io), people call me Jamil . I am a Junior Web Developer. I am always open to collaborating on projects. feel free to connect with me here: <br><br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rezaramdhani461@gmail.com)](mailto:rezaramdhani461@gmail.com)
