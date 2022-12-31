@@ -14,6 +14,7 @@ I'm [Muhamad Jamil Fanreza](https://fanreza.github,io), people call me Jamil . I
 
 ![Fanreza's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=fanreza&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave) <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanreza&hide=TeX&layout=compact&theme=synthwave)
+[![user:12964689's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/12964689?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
 ### My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)![Sass](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
