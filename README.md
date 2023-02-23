@@ -2,7 +2,7 @@
 
 # Hi there :wave:
 
-I'm [Muhamad Jamil Fanreza](https://fanreza.github,io), people call me Jamil . I am a Junior Web Developer. I am always open to collaborating on projects. feel free to connect with me here: <br><br>
+I'm [Muhamad Jamil Fanreza](https://fanreza.github,io), people call me Jamil . a Junior Frontend Developer, love to code and learn more about software engineering and software architecture, happy to contribute to open source also sometimes trading in cryptocurrency, I am always open to collaborating on projects. feel free to connect with me here: <br><br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rezaramdhani461@gmail.com)](mailto:rezaramdhani461@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fanreza/)](https://www.linkedin.com/in/fanreza/)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/fanreza)](https://dev.to/fanreza)
