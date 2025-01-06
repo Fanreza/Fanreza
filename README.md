@@ -8,7 +8,7 @@ I'm [Muhamad Jamil Fanreza](https://fanreza.github,io), a Fulltime Frontend Deve
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fanreza/)](https://www.linkedin.com/in/fanreza/)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/fanreza)](https://dev.to/fanreza)
 
-![Fanreza's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=fanreza&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave)
+![Fanreza's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=fanreza&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave)<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanreza&hide=TeX&layout=compact&theme=synthwave) <br><br>
 [![user:12964689's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/12964689?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
