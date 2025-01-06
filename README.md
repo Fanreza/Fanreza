@@ -2,7 +2,7 @@
 
 # Hi there :wave:
 
-I'm [Muhamad Jamil Fanreza](https://fanreza.github,io), a Fulltime Frontend Developer, PartTime Web3 Wanderer and a DeFi Advocat
+I'm [Muhamad Jamil Fanreza](https://fanreza.tech) a Fulltime Frontend Developer, PartTime Web3 Wanderer and a DeFi Advocat
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rezaramdhani461@gmail.com)](mailto:rezaramdhani461@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fanreza/)](https://www.linkedin.com/in/fanreza/)
